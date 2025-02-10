@@ -45,7 +45,7 @@ OnlineExamSystem/
    - Navigate to Main.java and run the program.
 
 ## 👨‍💻 Developed by :
-- Mayank Singh Negi
+- [Mayank Singh Negi](https://github.com/MayankSNegi)
 
 ## 📜 License
 This project is open-source and free to use.
